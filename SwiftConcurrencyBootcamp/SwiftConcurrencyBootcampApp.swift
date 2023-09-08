@@ -13,7 +13,9 @@ struct SwiftConcurrencyBootcampApp: App {
         WindowGroup {
 //            ContentView()
 //            DownloadImageAsync()
-            AsyncAwaitBootcamp()
+//            AsyncAwaitBootcamp()
+//            TaskBootcamp()
+            TaskBootcampHomeView()
         }
     }
 }

@@ -25,6 +25,7 @@
 		247AF5402AAEF8A000BE20B7 /* AsyncPublisherBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247AF53F2AAEF8A000BE20B7 /* AsyncPublisherBootcamp.swift */; };
 		247AF5422AAF00ED00BE20B7 /* StrongSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247AF5412AAF00ED00BE20B7 /* StrongSelfBootcamp.swift */; };
 		247AF5442AAF07E100BE20B7 /* MVVMBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247AF5432AAF07E100BE20B7 /* MVVMBootcamp.swift */; };
+		247AF5462AAF0C3D00BE20B7 /* RefreshableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247AF5452AAF0C3D00BE20B7 /* RefreshableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		247AF53F2AAEF8A000BE20B7 /* AsyncPublisherBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBootcamp.swift; sourceTree = "<group>"; };
 		247AF5412AAF00ED00BE20B7 /* StrongSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongSelfBootcamp.swift; sourceTree = "<group>"; };
 		247AF5432AAF07E100BE20B7 /* MVVMBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMBootcamp.swift; sourceTree = "<group>"; };
+		247AF5452AAF0C3D00BE20B7 /* RefreshableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				247AF5412AAF00ED00BE20B7 /* StrongSelfBootcamp.swift */,
 				247AF5432AAF07E100BE20B7 /* MVVMBootcamp.swift */,
 				2410A0542AAAEC1300642E58 /* Assets.xcassets */,
+				247AF5452AAF0C3D00BE20B7 /* RefreshableBootcamp.swift */,
 				2410A0562AAAEC1300642E58 /* Preview Content */,
 			);
 			path = SwiftConcurrencyBootcamp;
@@ -185,6 +188,7 @@
 				247AF53E2AAEF20200BE20B7 /* SendableBootcamp.swift in Sources */,
 				243DFBB92AAC971F00773BC8 /* ActorsBootcamp.swift in Sources */,
 				243DFBB52AAC536200773BC8 /* CheckedContinuationBootcamp.swift in Sources */,
+				247AF5462AAF0C3D00BE20B7 /* RefreshableBootcamp.swift in Sources */,
 				243DFBB72AAC5F6C00773BC8 /* StructClassActorBootcamp.swift in Sources */,
 				2410A0652AAB605B00642E58 /* TaskBootcamp.swift in Sources */,
 				247AF5442AAF07E100BE20B7 /* MVVMBootcamp.swift in Sources */,
